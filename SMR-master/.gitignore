@@ -1,0 +1,16 @@
+firmwares
+firmwares/
+firmwares/*
+local/
+build
+build/
+build/*
+Makefile-old
+.DS_Store
+DS_Store/
+*.csv
+*.ods
+*.jdebug
+*.o.dump*
+*.sublime-workspace
+*.log

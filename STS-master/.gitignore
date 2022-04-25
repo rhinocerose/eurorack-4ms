@@ -1,0 +1,18 @@
+*.ods
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+.cproject
+build/
+wav/
+Makefile-old
+*.jdebug
+.project
+.settings/
+sample\ wavs/
+notes/
+fpu_lib.mk
+*.jdebug.user
+firmwares/
+flashScript.jlink
+notes/
