@@ -1,1 +1,0 @@
-avrdude -F -B 8 -P usb -c avrispmkII -p attiny2313 -U flash:w:tapper.hex 

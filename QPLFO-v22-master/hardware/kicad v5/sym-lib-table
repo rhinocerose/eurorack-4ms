@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name qplfo_v22-rescue)(type Legacy)(uri ${KIPRJMOD}/qplfo_v22-rescue.lib)(options "")(descr ""))
-)
