@@ -1,9 +1,9 @@
 [submodule "eurorack-4ms-STS"]
 	path = eurorack-4ms-STS
-	url = https://github.com/rhinocerose/eurorack-4ms-STS
+	url = git@git-rhino:rhinocerose/eurorack-4ms-STS
 [submodule "eurorack-4ms-SWN"]
 	path = eurorack-4ms-SWN
-	url = https://github.com/rhinocerose/eurorack-4ms-SWN
+	url = git@git-rhino:rhinocerose/eurorack-4ms-SWN
 [submodule "eurorack-4ms-dld"]
 	path = eurorack-4ms-dld
 	url = git@git-rhino:rhinocerose/eurorack-4ms-dld
@@ -27,28 +27,28 @@
 	url = git@git-rhino:rhinocerose/eurorack-4ms-Smr
 [submodule "eurorack-4ms-DLD"]
 	path = eurorack-4ms-DLD
-	url = https://github.com/rhinocerose/eurorack-4ms-DLD
+	url = git@git-rhino:rhinocerose/eurorack-4ms-DLD
 [submodule "eurorack-4ms-pcb-SCMv3"]
 	path = eurorack-4ms-pcb-SCMv3
-	url = https://github.com/rhinocerose/eurorack-4ms-pcb-SCMv3
+	url = git@git-rhino:rhinocerose/eurorack-4ms-pcb-SCMv3
 [submodule "eurorack-4ms-pcb-RCD-SCM-clocker"]
 	path = eurorack-4ms-pcb-RCD-SCM-clocker
-	url = https://github.com/rhinocerose/eurorack-4ms-pcb-RCD-SCM-clocker
+	url = git@git-rhino:rhinocerose/eurorack-4ms-pcb-RCD-SCM-clocker
 [submodule "eurorack-4ms-SMR"]
 	path = eurorack-4ms-SMR
-	url = https://github.com/rhinocerose/eurorack-4ms-SMR
+	url = git@git-rhino:rhinocerose/eurorack-4ms-SMR
 [submodule "eurorack-4ms-QCDv2"]
 	path = eurorack-4ms-QCDv2
-	url = https://github.com/rhinocerose/eurorack-4ms-QCDv2
+	url = git@git-rhino:rhinocerose/eurorack-4ms-QCDv2
 [submodule "eurorack-4ms-QPLFO-v22"]
 	path = eurorack-4ms-QPLFO-v22
-	url = https://github.com/rhinocerose/eurorack-4ms-QPLFO-v22
+	url = git@git-rhino:rhinocerose/eurorack-4ms-QPLFO-v22
 [submodule "eurorack-4ms-PEG-v1"]
 	path = eurorack-4ms-PEG-v1
-	url = https://github.com/rhinocerose/eurorack-4ms-PEG-v1
+	url = git@git-rhino:rhinocerose/eurorack-4ms-PEG-v1
 [submodule "eurorack-4ms-dev-env"]
 	path = eurorack-4ms-dev-env
-	url = https://github.com/rhinocerose/eurorack-4ms-dev-env
+	url = git@git-rhino:rhinocerose/eurorack-4ms-dev-env
 [submodule "eurorack-4ms-pcb-rules"]
 	path = eurorack-4ms-pcb-rules
-	url = https://github.com/rhinocerose/eurorack-4ms-pcb-rules
+	url = git@git-rhino:rhinocerose/eurorack-4ms-pcb-rules
