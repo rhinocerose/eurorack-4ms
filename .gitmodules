@@ -1,31 +1,3 @@
-[submodule "eurorack-4ms-dld"]
-	path = eurorack-4ms-dld
-	url = git@git-rhino:rhinocerose/eurorack-4ms-dld
-	branch = main
-[submodule "eurorack-4ms-pcb-scmv3"]
-	path = eurorack-4ms-pcb-scmv3
-	url = git@git-rhino:rhinocerose/eurorack-4ms-pcb-scmv3
-	branch = main
-[submodule "eurorack-4ms-peg-v2"]
-	path = eurorack-4ms-peg-v2
-	url = git@git-rhino:rhinocerose/eurorack-4ms-peg-v2
-	branch = main
-[submodule "eurorack-4ms-qcdv2"]
-	path = eurorack-4ms-qcdv2
-	url = git@git-rhino:rhinocerose/eurorack-4ms-qcdv2
-	branch = main
-[submodule "eurorack-4ms-qplfo-v22"]
-	path = eurorack-4ms-qplfo-v22
-	url = git@git-rhino:rhinocerose/eurorack-4ms-qplfo-v22
-	branch = main
-[submodule "eurorack-4ms-SCM"]
-	path = eurorack-4ms-SCM
-	url = git@git-rhino:rhinocerose/eurorack-4ms-SCM
-	branch = main
-[submodule "eurorack-4ms-Smr"]
-	path = eurorack-4ms-Smr
-	url = git@git-rhino:rhinocerose/eurorack-4ms-Smr
-	branch = main
 [submodule "eurorack-4ms-DLD"]
 	path = eurorack-4ms-DLD
 	url = git@git-rhino:rhinocerose/eurorack-4ms-DLD
